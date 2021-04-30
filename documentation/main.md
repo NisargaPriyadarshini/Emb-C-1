@@ -1,1 +1,1 @@
-@mainpage Blinky Example by Bharath G @subpage project_main.c
+@mainpage casestudy for Embedded track by Nisarga @subpage project_main.c
